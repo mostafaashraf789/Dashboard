@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Boogaloo&family=Roboto:wght@100;300;400;500;700&family=Tilt+Neon&display=swap");
+
+* {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
